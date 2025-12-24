@@ -16,7 +16,7 @@ This learning path is designed to build strong foundations in **data analysis**,
 - Introduction to Data Science  
 - Understanding the Conda Environment  
 - Python Refresher (For Data Science)  
-- Claiming Free Developer Tools  
+
 
 ---
 
