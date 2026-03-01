@@ -1,0 +1,21 @@
+student_id,name,gender,age,city,course,semester,math_score,stats_score,cs_score,attendance_pct,internship
+1,Ayaan,M,20,Delhi,Data Science,1,78,82,75,92,Yes
+2,Riya,F,21,Mumbai,AI,2,88,91,89,85,No
+3,Arjun,M,22,Pune,Data Science,3,65,70,72,76,No
+4,Neha,F,20,Delhi,Web Dev,1,90,85,88,95,Yes
+5,Karan,M,23,Bangalore,AI,4,55,60,58,68,No
+6,Priya,F,22,Chennai,Data Science,3,72,75,70,80,Yes
+7,Rohit,M,21,Kolkata,Web Dev,2,81,79,83,88,Yes
+8,Simran,F,20,Jaipur,AI,1,95,93,97,98,Yes
+9,Aditya,M,24,Hyderabad,Data Science,4,60,65,62,70,No
+10,Pooja,F,21,Delhi,Web Dev,2,85,80,78,90,Yes
+11,Aman,M,22,Mumbai,AI,3,70,68,74,82,No
+12,Kriti,F,23,Pune,Data Science,4,92,89,90,96,Yes
+13,Sahil,M,20,Chandigarh,Web Dev,1,66,64,69,75,No
+14,Nisha,F,22,Bangalore,AI,3,74,77,73,84,Yes
+15,Vikas,M,21,Jaipur,Data Science,2,80,78,82,86,Yes
+16,Meera,F,24,Chennai,Web Dev,4,58,62,60,65,No
+17,Rahul,M,23,Delhi,AI,4,90,92,91,94,Yes
+18,Tanya,F,20,Mumbai,Data Science,1,83,85,80,89,Yes
+19,Dev,M,22,Indore,Web Dev,3,69,71,68,78,No
+20,Isha,F,21,Surat,AI,2,88,86,90,91,Yes

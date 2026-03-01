@@ -1,0 +1,11 @@
+student_id,name,gender,age,city,course,semester,math_score,stats_score,cs_score,attendance_pct,internship
+21,Farhan,M,22,Lucknow,AI,2,76,79,74,83,No
+22,Sneha,F,21,Noida,Data Science,1,84,88,86,90,Yes
+23,Imran,M,23,Bhopal,Web Dev,3,62,65,60,72,No
+24,Kavya,F,20,Dehradun,AI,1,91,94,89,97,Yes
+25,Ankit,M,24,Gurgaon,Data Science,4,68,70,66,74,No
+26,Ritu,F,22,Patna,Web Dev,2,79,77,81,85,Yes
+27,Manish,M,21,Ranchi,AI,2,73,75,72,80,No
+28,Pallavi,F,23,Udaipur,Data Science,3,88,86,90,92,Yes
+29,Deepak,M,20,Meerut,Web Dev,1,64,61,67,70,No
+30,Shreya,F,22,Agra,AI,3,90,89,92,95,Yes
